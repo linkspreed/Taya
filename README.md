@@ -317,7 +317,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Chat
 <img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/3.PNG" draggable="false" />
 
-### Groups
+### Audio Player
 <img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Settings
