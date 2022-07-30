@@ -1,7 +1,6 @@
-# <img align="left" alt="Taya" width="400px" src="https://taya.cf/assets/files/logos/entry_page_logo_dark_mode.png" draggable="false" /> Taya ([Click to try 🚀](https://taya.cf/))
+# <img align="left" alt="Taya" width="100px" src="https://taya.cf/assets/taya_icon.png" draggable="false" /> Taya ([Click to try 🚀](https://taya.cf/))
 
-💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
-
+Taya - chat 💬 with your friends quickly 😺 and easily in the most anonymous 🔥 messenger. 📱
 
 
 ## **[Changelog 💙](https://github.com/linkspreed/Streamvalley/blob/main/changelog.md)** **Check out the full Streamvalley changelog**
