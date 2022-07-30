@@ -3,8 +3,8 @@
 Taya - chat 💬 with your friends quickly 😺 and easily in the most anonymous 🔥 messenger. 📱
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Streamvalley/blob/main/changelog.md)** **Check out the full Streamvalley changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Streamvalley/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Streamvalley besides development**
+## **[Changelog 💬](https://github.com/linkspreed/Taya/blob/main/changelog.md)** **Check out the full Taya changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Taya/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Taya besides development**
 
 
 <div align="center">
@@ -44,19 +44,19 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
 
 
 ### Welcome
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Timeline
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Profile
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### Light mode
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/6.PNG" draggable="false" />
+<img align="center" alt="Taya" width="3000px" src="https://github.com/linkspreed/Taya/blob/main/Screenshots/6.PNG" draggable="false" />
