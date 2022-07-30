@@ -1,4 +1,4 @@
-# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+# <img align="left" alt="Taya" width="100px" src="https://taya.cf/assets/files/logos/entry_page_logo_dark_mode.png" draggable="false" /> Taya ([Click to try 🚀](https://taya.cf/))
 
 💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
 
