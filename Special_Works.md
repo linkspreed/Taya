@@ -1,3 +1,6 @@
+# 06.08.2022
+  - We continue to work on the android app for Taya.
+
 # 05.08.2022
   - We continue to work on the android app for Taya.
  
