@@ -6,6 +6,9 @@ Taya - chat 💬 with your friends quickly 😺 and easily in the most anonymous
 ## **[Changelog 💬](https://github.com/linkspreed/Taya/blob/main/changelog.md)** **Check out the full Taya changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Taya/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Taya besides development**
 
+<a href="https://taya.cf/apk/taya_release_1.0.apk" target="_blank">
+<img src="https://github.com/linkspreed/Twig/blob/main/Screenshots/download_button.png" alt="Get the APK" height="90"/></a>
+
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
