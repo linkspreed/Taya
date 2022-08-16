@@ -1,3 +1,6 @@
+# 16.08.2022
+  - We are now releasing the Taya App.
+
 # 06.08.2022
   - ✔️The work on the Android app for Taya is now complete. 
   - We will probably release the app tomorrow.
