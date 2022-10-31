@@ -1,4 +1,9 @@
 ### 31.10.2022 (announcement Taya)
+- The launch of version 3.2 of **Taya** was successful! 🥳
+- The new update is live now :)
+- https://taya.cf 🔗
+
+### 31.10.2022 (announcement Taya)
 - We are now starting the launch of v3.2.
 
 ### 31.10.2022 (announcement Taya)
