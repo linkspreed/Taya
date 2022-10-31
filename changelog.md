@@ -1,3 +1,71 @@
+# V3.3 - 31. October 2022
+ - Fake Online Users ban
+ - Friends Feature
+ - Nearby Users feature (Geolocation System)
+ - Forward Group messages feature
+ - Group Headers [Allows you to place HTML/PHP code in Group Headers]
+ - Option to Allow Guest users to convert Guest account to Registered Account
+ - Option to Hide Groups when a user visits through the group URL (Site Role Feature)
+ - Option to set Minimum Full Name length
+ - Option to limit Full Name Character Length
+ - Unread Notification Count in the Browser Title Bar
+ - Option for Resending a verification email
+ - Option to display username instead of full name in Group & Private Chats
+ - Play SoundCloud tracks directly within Grupo without leaving the chat interface
+ - Option to Compress Video Files
+ - Option to Compress Image Files
+ - Option to Compress Audio Files
+ - Added Language Switcher in Landing page
+ - Added Cairo & Rubik Web fonts
+ - Email Validators
+     - Option to block email addresses from certain domains
+     - Option to allow email addresses only from certain domains
+ - Added new Custom Menu location [Side Navigation Top portion]
+ - Users will hidden from Messages section on Clear Chat or on Blocking Users
+ - Separate section to view old messages from Blocked users
+ - Option to Show Friends, Nearby Users on page load [Site Roles]
+ - Option to Re-login as Admin [Login as User Feature]
+ - Option to view User’s Private Chats in separate section
+ - Option to delete user’s private conversations
+ - Added block & ignore options in private conversations
+ - Option to add Custom CSS on Specific Pages
+ - Option to add Custom JavaScript on Specific Pages
+ - Option to delete Complaints
+ - Option to show/hide Side Navigation on load
+ - Added hCaptcha & reCaptcha dark theme.
+ - Option to display message timestamp only on hover
+ - Option to enable/disable CSRF token feature
+ - Option to perform Search on Change of Input
+ - Option to allow/prevent sharing Email Addresses (Site roles & Group roles)
+ - UI Improvements
+ - Fixed Bugs
+# V3.2 - 31. October 2022
+ - Image Moderation (SightEngine) : Auto Remove Images that contain Partial Nudity, Explicit Nudity, Weapons, Alcohol, Drugs, Offensive Signs, Graphic Violence & Gore
+ - Bulk import users (CSV Import)
+ - Option to set maximum group messages per day (Site Roles)
+ - Option to set maximum private messages per day (Site Roles)
+ - Option to display full file name of Attachment(s)
+ - Option to show/hide group member list from Non Group members
+ - Option to show Site users on load [Left Panel]
+ - Option to remove multiple Site Notifications at once
+ - Option to force logged in users to join public groups inorder to view messages
+ - Now supports Tenor’s V2 API
+ - Added new custom field type – URL
+ - Option to hide site adverts for Site Roles (Ad-Free Account)
+ - Export Conversations (UI Improvements)
+ - Localize the period (AM/PM) in a time stamp (Language Manager)
+ - Option to validate your SMTP Settings (yourwebaddress/validate_smtp/)
+ - Restrict Custom Pages based on Site Roles
+ - Show/hide Custom Menu Items based on Site Roles
+ - Option to disable landing page blocks (Trending Groups, FAQ)
+ - Option to hide email address field in Registeration Page
+ - Option to hide name field In Registeration Page
+ - Option to hide UserName Field In Registration Page
+ - Option to set Site Advert block Minimum Height
+ - Now Supports WebP Image format
+ - Auto Convert Email Address into Clickable Hyperlink (Messages)
+ - UI Improvements
+ - Fixed bugs
 # V3.1
  - User Approval System
  - Mini Audio Player
