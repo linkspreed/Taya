@@ -1,4 +1,8 @@
 ### 31.10.2022 (announcement Taya)
+- https://github.com/linkspreed/Taya/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 31.10.2022 (announcement Taya)
 - The launch of version 3.2 of **Taya** was successful! 🥳
 - The new update is live now :)
 - https://taya.cf 🔗
