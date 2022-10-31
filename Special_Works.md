@@ -1,4 +1,7 @@
 ### 31.10.2022 (announcement Taya)
+-  **Taya** gets a big update today - we are going to launch v3.3. 😍
+
+### 31.10.2022 (announcement Taya)
 - https://github.com/linkspreed/Taya/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
