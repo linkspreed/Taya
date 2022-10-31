@@ -1,4 +1,7 @@
 ### 31.10.2022 (announcement Taya)
+- We are now starting the launch of v3.3.
+
+### 31.10.2022 (announcement Taya)
 - The servers are now ready for the launch of version 3.3 for **Taya**.
 
 ### 31.10.2022 (announcement Taya)
