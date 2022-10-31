@@ -1,3 +1,6 @@
+### 31.10.2022 (announcement Taya)
+- We're working on **Taya**.
+
 # 16.08.2022
   - We are now releasing the Taya App.
 
