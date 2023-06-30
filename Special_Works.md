@@ -1,3 +1,6 @@
+### 30.06.2023 (announcement Taya)
+- 🎉 Exciting news! We just added Taya to our Subdomain system! 🌐➡️ No worries, though, https://taya.cf will now redirect you to https://taya.linkspreed.com seamlessly. 💻✨ So, what else can you do? Have a blast exploring the platform and making the most of your existing data! 🚀💪 #Taya #Subdomain #SeamlessTransition Question: Have you tried out the new platform yet? 😊
+
 ### 31.10.2022 (announcement Taya)
 - https://github.com/linkspreed/Taya/blob/main/changelog.md
 - The entire changelog is now available on Github.
