@@ -1,4 +1,4 @@
-# <img align="left" alt="Taya" width="100px" src="https://github.com/linkspreed/Taya/assets/102324985/e9dacf7f-2a9c-425e-bb33-535d0de45576" draggable="false" /> Taya ([Click to try 🚀](https://taya.cf/))
+# <img align="left" alt="Taya" width="250px" src="https://github.com/linkspreed/Taya/assets/102324985/e9dacf7f-2a9c-425e-bb33-535d0de45576" draggable="false" /> ([Click to try 🚀](https://taya.cf/))
 
 Taya - chat 💬 with your friends quickly 😺 and easily in the most anonymous 🔥 messenger. 📱
 
